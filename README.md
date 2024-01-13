@@ -1,3 +1,4 @@
 # Doctor Who Multi Doctor Stories Data
 Updated to 2020 !!
-I used: HTML, JS, React, Bootstrap
+Front end project using: HTML, JS, React, Bootstrap.
+Available in desktop and mobile 
